@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rdr3</string>
+    <string name="button_open">Open</string>
+    <string name="button_next">Next</string>
+    <string name="button_prievous">Prev</string>
+    <string name="text_default">File name...</string>
+</resources>
